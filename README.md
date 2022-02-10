@@ -1,2 +1,3 @@
-**Discord Bot**
+# Discord Bot
+
 this is a bot
