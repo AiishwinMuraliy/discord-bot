@@ -19,4 +19,4 @@ time.sleep(5) # Waiting for page to load
 driver.get("URL OF DIRECT MESSAGE")
 
 time.sleep(5) # Waiting for page to load
-driver.find_element_by_xpath("URL OF DIRECT MESSAGE").send_keys(message, Keys.ENTER) # Sending message
+driver.find_element_by_xpath("XPATH OF DIRECT MESSAGE TEXT FIELD").send_keys(message, Keys.ENTER) # Sending message
